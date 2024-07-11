@@ -40,6 +40,16 @@ public class MyDatatypes {
         // ArrayList 
         // collection framework
 
+        int f1 = 12;
+        int f2 = 13;
+
+        f1 = f1 + f2;   // f1 = 25
+        f2 = f1 - f2;   // f2 = 25-13 = 12
+        f1 = f1 - f2;   // f1 = 25 - 12 = 13
+
+        System.out.println(f1);
+        System.out.println(f2);
+
     }
 
 }
