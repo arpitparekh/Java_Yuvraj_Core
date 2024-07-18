@@ -5,7 +5,6 @@ public class MyDatatypes {
         //  datatypes
 
         // 8 primitive datatypes
-        
         // Number datatype
 
         byte b = 45; // 1 byte  // 1 bytes = 16 bit // 101010101010
@@ -49,7 +48,7 @@ public class MyDatatypes {
 
         System.out.println(f1);
         System.out.println(f2);
-
+        
     }
 
 }
