@@ -6,6 +6,11 @@ public class MyString {
         // string immuable
         // gropu of character
 
+        // stack
+        // heap
+        // string pool
+        // string literal
+
         String name = "Arpit";
         String name2 = "Arpit";
 
@@ -22,7 +27,7 @@ public class MyString {
         System.out.println(name2.equals(name3));
         System.out.println(name3.equals(name4));
         System.out.println(name4.equals(name));
-
+        
     }
         
 }

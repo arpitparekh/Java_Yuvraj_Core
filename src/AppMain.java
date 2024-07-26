@@ -25,8 +25,6 @@ public class AppMain {
 
         int a1=12, b1=13, c=14, d1=15, f1=56;
         System.out.println(a1);
-
         
-
     }
 }
