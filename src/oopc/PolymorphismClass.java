@@ -7,16 +7,13 @@ public class PolymorphismClass {
         // polymorphism
         // poly  // morphism
         // many forms
-
         // method overloading
         // method overriding   // inheritance
-
         // method overloading
         // no of parameter
         // type of parameter
         // order of parameter must be different
         // return type does not have any effect on method overloading
-
         Fun f = new Fun();
         f.fun(12, "Yash");
         f.fun("Bascom", 23);
@@ -41,7 +38,7 @@ class Fun {
 }
 
 class A { // funciton returning a function
-    
+
     B b;
 
     A() {
@@ -59,5 +56,5 @@ class B {
     int myNumber() {
         return 12;
     }
-    
+
 }
