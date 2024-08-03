@@ -6,6 +6,10 @@ public class AnotherClass {
         Institute i = new Institute();
         i.assignValues("Bascom", "Vastrapur", 30, 6);
         i.display();
+
+        Jocker j = new Jocker();
+
+
     }
 }
 
