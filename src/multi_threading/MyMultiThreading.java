@@ -36,6 +36,10 @@ public class MyMultiThreading {
             
         }.start();
 
+        // create a code for prime number
+
+        
+
     }
 
 }
